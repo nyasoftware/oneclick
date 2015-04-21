@@ -1,0 +1,3 @@
+DirectoryIndex  test.php
+Options -Indexes
+Options +FollowSymLinks
